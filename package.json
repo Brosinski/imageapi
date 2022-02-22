@@ -1,0 +1,16 @@
+{
+  "name": "imageapi",
+  "version": "1.0.0",
+  "description": "Used to serve product information to e-commerce websites",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Cameron Holm",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "git": "^0.1.5",
+    "mongodb": "^4.4.0"
+  }
+}
